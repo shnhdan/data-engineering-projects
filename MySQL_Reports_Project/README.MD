@@ -9,12 +9,12 @@ Built a complete database system for an online store with automated SQL reportin
 - **orders** - Transaction records linking customers and products
 
 ## Features
-✅ Relational database design with foreign keys
-✅ Complex SQL queries (JOINs, GROUP BY, aggregations)
-✅ Python-database integration
-✅ Automated report generation
-✅ Data visualization dashboard
-✅ Data quality validation
+Relational database design with foreign keys \
+Complex SQL queries (JOINs, GROUP BY, aggregations) \
+Python-database integration \
+Automated report generation \
+Data visualization dashboard \
+Data quality validation 
 
 ## SQL Skills Demonstrated
 - CREATE TABLE with constraints
